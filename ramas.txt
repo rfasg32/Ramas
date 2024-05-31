@@ -1,0 +1,6 @@
+Comandos 
+git clone --> clona repositorios 
+git push --> manda los cambios realizados 
+git pull --> descarga y combina los cambios 
+git branch --> crea una rama 
+git switch --> cambia a una rama
