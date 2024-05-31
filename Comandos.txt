@@ -3,3 +3,4 @@ git push: Manda los cambios del repositorio local al remoto.
 git pull: Actualiza los cambios del repositorio remoto al local.
 git branch: Muestra y crea nuevas ramas en el repositorio.
 git switch, checkout: Cambia a otras ramas del repositorio.
+git merge: Junta dos ramas del repositorio.
